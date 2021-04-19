@@ -21,7 +21,8 @@ You will find here the following notebooks:
 
 ![Atl Text](img/animation.gif)
 
-**Objective:** The goal is to create median house price estimator for Boston city, using a Multiple Linear Regression Model build from scratch, applied on the “Boston Housing Dataset”. Then I will try to improve this estimator, using a Multiple Polynomial Regression Model.
+**Objective:** The goal is to create median house price estimator for Boston city, using a Multiple Linear Regression Model build from scratch, applied on the “Boston Housing Dataset”. Then I will try to improve this estimator, using a Multiple Polynomial Regression Model.<br/>
+I will apply a such ANN built from scratch to a custom dataset generated for XOr binary classification.
 
 ---
 
