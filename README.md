@@ -2,7 +2,10 @@
 
 In this repository you will find different analysis which are a kind of support for basic machine learning models construction from scratch. By this way models are applied directly on concrete cases, and performances of the models are evaluated against classic prebuilt machine learning models of the Sklearn library.
 
-**You will find 3 notebooks:**
+Please refer to my Data Science Blog if notebooks are not showing with Github:
+https://domsdev.github.io/Data-science-blog/
+
+You will find the following notebooks here:
 
 ---
 
