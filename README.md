@@ -13,7 +13,9 @@ You will find here the following notebooks:
 
 ![png](img/linear_regression.png)
 
-**Objective:** The goal is to create a salary estimator based on years of experience of the employees of an anonymous company, using a simple Linear Regression Model build from scratch applied on “Salary_Data.csv” Kaggle’s dataset. Then I will compare the performance of the model against the prebuilt Sklearn linear regression model.
+**Objective:** The goal is to create a salary estimator based on years of experience of the employees of an anonymous company, using a simple Linear Regression Model build from scratch applied on “Salary_Data.csv” Kaggle’s dataset. Then I will compare the performance of the model against the prebuilt Sklearn linear regression model.<br/>
+
+https://domsdev.github.io/Data-science-blog/post/a_simple_linear_regression_from_scratch/
 
 ---
 
@@ -21,7 +23,9 @@ You will find here the following notebooks:
 
 ![Atl Text](img/animation.gif)
 
-**Objective:** The goal is to create median house price estimator for Boston city, using a Multiple Linear Regression Model build from scratch, applied on the “Boston Housing Dataset”. Then I will try to improve this estimator, using a Multiple Polynomial Regression Model.
+**Objective:** The goal is to create median house price estimator for Boston city, using a Multiple Linear Regression Model build from scratch, applied on the “Boston Housing Dataset”. Then I will try to improve this estimator, using a Multiple Polynomial Regression Model.<br/>
+
+https://domsdev.github.io/Data-science-blog/post/multiple_and_polynomial_regression_from_scratch/
 
 ---
 
@@ -30,4 +34,7 @@ You will find here the following notebooks:
 ![png](img/xor_example.png)
 
 **Objective:** The goal here is to deal with the XOr classification problem that can’t be solved with classical logistic regression models. The XOr, or “exclusive or” problem is a classic problem that can be solved with Artificial Neural Network to predict the outputs of XOr logic gates given two binary inputs. The XOr function returns a true value if the two inputs are not equal and a false value if they are equal.I will apply a such ANN built from scratch to a custom dataset generated for XOr binary classification.<br/>
-I will apply a such ANN built from scratch to a custom dataset generated for XOr binary classification.
+I will apply a such ANN built from scratch to a custom dataset generated for XOr binary classification.<br/>
+
+https://domsdev.github.io/Data-science-blog/post/building_a_neural_network_from_scratch/
+
