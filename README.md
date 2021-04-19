@@ -21,8 +21,7 @@ You will find here the following notebooks:
 
 ![Atl Text](img/animation.gif)
 
-**Objective:** The goal is to create median house price estimator for Boston city, using a Multiple Linear Regression Model build from scratch, applied on the “Boston Housing Dataset”. Then I will try to improve this estimator, using a Multiple Polynomial Regression Model.<br/>
-I will apply a such ANN built from scratch to a custom dataset generated for XOr binary classification.
+**Objective:** The goal is to create median house price estimator for Boston city, using a Multiple Linear Regression Model build from scratch, applied on the “Boston Housing Dataset”. Then I will try to improve this estimator, using a Multiple Polynomial Regression Model.
 
 ---
 
@@ -30,4 +29,5 @@ I will apply a such ANN built from scratch to a custom dataset generated for XOr
 
 ![png](img/xor_example.png)
 
-**Objective:** The goal here is to deal with the XOr classification problem that can’t be solved with classical logistic regression models. The XOr, or “exclusive or” problem is a classic problem that can be solved with Artificial Neural Network to predict the outputs of XOr logic gates given two binary inputs. The XOr function returns a true value if the two inputs are not equal and a false value if they are equal.I will apply a such ANN built from scratch to a custom dataset generated for XOr binary classification.
+**Objective:** The goal here is to deal with the XOr classification problem that can’t be solved with classical logistic regression models. The XOr, or “exclusive or” problem is a classic problem that can be solved with Artificial Neural Network to predict the outputs of XOr logic gates given two binary inputs. The XOr function returns a true value if the two inputs are not equal and a false value if they are equal.I will apply a such ANN built from scratch to a custom dataset generated for XOr binary classification.<br/>
+I will apply a such ANN built from scratch to a custom dataset generated for XOr binary classification.
