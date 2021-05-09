@@ -4,21 +4,15 @@
 ![licence](https://img.shields.io/badge/licence-MIT-yellow?style=plastic)
 
 <p align="center">
-
     <a href="https://www.python.org/downloads/release/python-385/">
         <img src="https://img.shields.io/badge/python-3.8.5-brightgreen?style=plastic">
     </a>
-
     <a href="https://github.com/ellerbrock/open-source-badges/">
         <img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103" alt="Open Source Love">
     </a>
-
     <a href="https://opensource.org/licenses/MIT">
         <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="GitHub">
     </a>
-
-
-
     <a href="https://www.linkedin.com/in/dominique-pothin-dev/">
         <img src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=#0077B5" alt="LinkedIn">
     </a>
