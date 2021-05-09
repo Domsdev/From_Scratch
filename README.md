@@ -1,13 +1,14 @@
 # [Classic machine learning models built from scratch]
 
-[![python](https://img.shields.io/badge/python-3.8.5-brightgreen?style=plastic)](https://www.python.org/downloads/release/python-385/)
-[![numpy](https://img.shields.io/badge/numpy-1.20.1-brightgreen?style=plastic)](https://numpy.org/devdocs/release/1.20.1-notes.html)
-[![pandas](https://img.shields.io/badge/pandas-1.2.2-brightgreen?style=plastic)]()
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.1-brightgreen?style=plastic)]()
-[![matplotlib](https://img.shields.io/badge/matplotlib-3.3.4-brightgreen?style=plastic)]()
-[![seaborn](https://img.shields.io/badge/seaborn-0.11.1-brightgreen?style=plastic)]()
-[![tdqm](https://img.shields.io/badge/tdqm-4.50.2-brightgreen?style=plastic)]()
-[![licence](https://img.shields.io/badge/licence-MIT-yellow?style=plastic)]()
+[![python](https://img.shields.io/badge/python-3.8.5-brightgreen?)](https://www.python.org/downloads/release/python-385/)
+[![numpy](https://img.shields.io/badge/numpy-1.20.1-brightgreen)](https://numpy.org/devdocs/release/1.20.1-notes.html)
+[![pandas](https://img.shields.io/badge/pandas-1.2.2-brightgreen)]()
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.1-brightgreen)]()
+[![matplotlib](https://img.shields.io/badge/matplotlib-3.3.4-brightgreen)]()
+[![seaborn](https://img.shields.io/badge/seaborn-0.11.1-brightgreen)]()
+[![tdqm](https://img.shields.io/badge/tdqm-4.50.2-brightgreen)]()
+[![licence](https://img.shields.io/badge/licence-MIT-yellow)](https://github.com/Domsdev/Data-science-blog/blob/main/MIT%20Licence.md)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=#0077B5" alt="LinkedIn)](https://www.linkedin.com/in/dominique-pothin-dev/)
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-385/">
