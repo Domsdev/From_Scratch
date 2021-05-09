@@ -1,4 +1,4 @@
-# <span style="color:blue">Classic machine learning models built from scratch</span>
+# Classic machine learning models built from scratch
 
 [![python](https://img.shields.io/badge/python-3.8.5-brightgreen?)](https://www.python.org/downloads/release/python-385/)
 [![numpy](https://img.shields.io/badge/numpy-1.20.1-brightgreen)](https://numpy.org/devdocs/release/1.20.1-notes.html)
@@ -10,12 +10,14 @@
 
 [![licence](https://img.shields.io/badge/licence-MIT-yellow)](https://github.com/Domsdev/Data-science-blog/blob/main/MIT%20Licence.md) [![linkedIn](https://img.shields.io/badge/-LinkedIn%20-blue)](https://www.linkedin.com/in/dominique-pothin-dev/)
 
+# 
+
 
 In this repository you will find different analysis which are a kind of support for basic machine learning models construction from scratch. By this way models are applied directly on concrete cases, and performances of the models are evaluated against classic prebuilt machine learning models of the Sklearn library.
 
 You will find here the following notebooks:
 
----
+# 
 
 ## A Simple Linear Regression from scratch 
 
