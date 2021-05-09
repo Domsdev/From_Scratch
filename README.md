@@ -1,4 +1,4 @@
-# [Classic machine learning models built from scratch]
+# <span style="color:blue">Classic machine learning models built from scratch</span>
 
 [![python](https://img.shields.io/badge/python-3.8.5-brightgreen?)](https://www.python.org/downloads/release/python-385/)
 [![numpy](https://img.shields.io/badge/numpy-1.20.1-brightgreen)](https://numpy.org/devdocs/release/1.20.1-notes.html)
