@@ -3,13 +3,12 @@
 ![python](https://img.shields.io/badge/python-3.8.5-brightgreen?style=plastic) ![numpy](https://img.shields.io/badge/numpy-1.20.1-brightgreen?style=plastic) ![pandas](https://img.shields.io/badge/pandas-1.2.2-brightgreen?style=plastic) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.1-brightgreen?style=plastic) ![matplotlib](https://img.shields.io/badge/matplotlib-3.3.4-brightgreen?style=plastic) ![seaborn](https://img.shields.io/badge/seaborn-0.11.1-brightgreen?style=plastic) ![tdqm](https://img.shields.io/badge/tdqm-4.50.2-brightgreen?style=plastic)
 ![licence](https://img.shields.io/badge/licence-MIT-yellow?style=plastic)
 
---
 
 In this repository you will find different analysis which are a kind of support for basic machine learning models construction from scratch. By this way models are applied directly on concrete cases, and performances of the models are evaluated against classic prebuilt machine learning models of the Sklearn library.
 
 You will find here the following notebooks:
 
---
+---
 
 ## A Simple Linear Regression from scratch 
 
