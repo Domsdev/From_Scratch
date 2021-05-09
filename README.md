@@ -10,7 +10,9 @@
 [![licence](https://img.shields.io/badge/licence-MIT-yellow)](https://github.com/Domsdev/Data-science-blog/blob/main/MIT%20Licence.md) [![linkedIn](https://img.shields.io/badge/-LinkedIn%20-blue)](https://www.linkedin.com/in/dominique-pothin-dev/)
 
 ---
+
 In this repository you will find different analysis which are a kind of support for basic machine learning models construction from scratch. By this way models are applied directly on concrete cases, and performances of the models are evaluated against classic prebuilt machine learning models of the Scikit-learn library.
+
 ---
 
 ### You will find here the following notebooks:
