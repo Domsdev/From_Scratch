@@ -13,7 +13,7 @@
 In this repository you will find different analysis which are a kind of support for basic machine learning models construction from scratch. By this way models are applied directly on concrete cases, and performances of the models are evaluated against classic prebuilt machine learning models of the Sklearn library.
 # 
 
-## You will find here the following notebooks:
+### You will find here the following notebooks:
 
 
 ## A Simple Linear Regression from scratch 
