@@ -15,8 +15,6 @@ In this repository you will find different analysis which are a kind of support 
 
 ---
 
-### You will find here the following notebooks:
-
 
 ## A Simple Linear Regression from scratch 
 
