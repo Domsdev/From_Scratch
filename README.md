@@ -16,6 +16,9 @@
     <a href="https://www.linkedin.com/in/dominique-pothin-dev/">
         <img src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=#0077B5" alt="LinkedIn">
     </a>
+    <a href="https://github.com/Domsdev/Data-science-blog/blob/main/MIT%20Licence.md">
+        <img src="https://img.shields.io/badge/licence-MIT-yellow?style=plastic">
+    </a>
 </p>
 
 
