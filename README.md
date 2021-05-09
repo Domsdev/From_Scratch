@@ -17,7 +17,6 @@ In this repository you will find different analysis which are a kind of support 
 
 You will find here the following notebooks:
 
-# 
 
 ## A Simple Linear Regression from scratch 
 
@@ -27,7 +26,7 @@ You will find here the following notebooks:
 
 <a href="https://domsdev.github.io/Data-science-blog/post/a_simple_linear_regression_from_scratch/">Blog post: A Simple Linear Regression from scratch</a>
 
----
+
 
 ## Multiple and Polynomial Regression from scratch
 
@@ -37,7 +36,7 @@ You will find here the following notebooks:
 
 <a href="https://domsdev.github.io/Data-science-blog/post/multiple_and_polynomial_regression_from_scratch/">Blog post: Multiple and Polynomial Regression from scratch</a>
 
----
+
 
 ## Building a Neural Network from scratch
 
