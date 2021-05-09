@@ -3,6 +3,25 @@
 ![python](https://img.shields.io/badge/python-3.8.5-brightgreen?style=plastic) ![numpy](https://img.shields.io/badge/numpy-1.20.1-brightgreen?style=plastic) ![pandas](https://img.shields.io/badge/pandas-1.2.2-brightgreen?style=plastic) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.1-brightgreen?style=plastic) ![matplotlib](https://img.shields.io/badge/matplotlib-3.3.4-brightgreen?style=plastic) ![seaborn](https://img.shields.io/badge/seaborn-0.11.1-brightgreen?style=plastic) ![tdqm](https://img.shields.io/badge/tdqm-4.50.2-brightgreen?style=plastic)
 ![licence](https://img.shields.io/badge/licence-MIT-yellow?style=plastic)
 
+<p align="center">
+    <a href="https://github.com/ellerbrock/open-source-badges/">
+        <img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103" alt="Open Source Love">
+    </a>
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="GitHub">
+    </a>
+    <a href="https://www.python.org/downloads/release/python-360/">
+        <img src="https://img.shields.io/badge/Python-3.6-blue.svg" alt="Python 3.6">
+    </a>
+    <a href="https://github.com/mukeshmithrakumar/RetinaNet/stargazers">
+        <img src="https://img.shields.io/github/stars/mukeshmithrakumar/RetinaNet.svg?colorA=orange&colorB=orange&logo=github&label=Stars"
+            alt="GitHub Stars">
+    </a>
+    <a href="https://www.linkedin.com/in/mukesh-mithrakumar/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=#0077B5" alt="LinkedIn">
+    </a>
+</p>
+
 
 In this repository you will find different analysis which are a kind of support for basic machine learning models construction from scratch. By this way models are applied directly on concrete cases, and performances of the models are evaluated against classic prebuilt machine learning models of the Sklearn library.
 
