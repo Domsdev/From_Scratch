@@ -8,7 +8,7 @@
 [![seaborn](https://img.shields.io/badge/seaborn-0.11.1-brightgreen)]()
 [![tdqm](https://img.shields.io/badge/tdqm-4.50.2-brightgreen)]()
 [![licence](https://img.shields.io/badge/licence-MIT-yellow)](https://github.com/Domsdev/Data-science-blog/blob/main/MIT%20Licence.md)
-[![linkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=#0077B5" alt="LinkedIn)](https://www.linkedin.com/in/dominique-pothin-dev/)
+[![linkedIn](https://img.shields.io/badge/-LinkedIn%20-blue)](https://www.linkedin.com/in/dominique-pothin-dev/)
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-385/">
