@@ -1,6 +1,6 @@
 # Classic machine learning models built from scratch
 
-[![python](https://img.shields.io/badge/python-3.8.5-brightgreen?)](https://www.python.org/downloads/release/python-385/)
+[![python](https://img.shields.io/badge/python-3.8.5-brightgreen?#c)](https://www.python.org/downloads/release/python-385/)
 [![numpy](https://img.shields.io/badge/numpy-1.20.1-brightgreen)](https://pypi.org/project/numpy/1.20.1/)
 [![pandas](https://img.shields.io/badge/pandas-1.2.2-brightgreen)](https://pypi.org/project/pandas/1.2.2/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.1-brightgreen)](https://pypi.org/project/scikit-learn/0.24.1/)
