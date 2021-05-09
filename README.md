@@ -11,9 +11,8 @@
 [![licence](https://img.shields.io/badge/licence-MIT-yellow)](https://github.com/Domsdev/Data-science-blog/blob/main/MIT%20Licence.md) [![linkedIn](https://img.shields.io/badge/-LinkedIn%20-blue)](https://www.linkedin.com/in/dominique-pothin-dev/)
 
 # 
-
-
 In this repository you will find different analysis which are a kind of support for basic machine learning models construction from scratch. By this way models are applied directly on concrete cases, and performances of the models are evaluated against classic prebuilt machine learning models of the Sklearn library.
+# 
 
 You will find here the following notebooks:
 
@@ -27,7 +26,6 @@ You will find here the following notebooks:
 <a href="https://domsdev.github.io/Data-science-blog/post/a_simple_linear_regression_from_scratch/">Blog post: A Simple Linear Regression from scratch</a>
 
 
-
 ## Multiple and Polynomial Regression from scratch
 
 ![Atl Text](img/animation.gif)
@@ -35,7 +33,6 @@ You will find here the following notebooks:
 **Objective:** The goal is to create median house price estimator for Boston city, using a Multiple Linear Regression Model build from scratch, applied on the “Boston Housing Dataset”. Then I will try to improve this estimator, using a Multiple Polynomial Regression Model.<br/>
 
 <a href="https://domsdev.github.io/Data-science-blog/post/multiple_and_polynomial_regression_from_scratch/">Blog post: Multiple and Polynomial Regression from scratch</a>
-
 
 
 ## Building a Neural Network from scratch
